@@ -11,7 +11,7 @@ A simple python calculator. Interface made using `tkinter`.
 - numpad input access 
 
 ## Usage
-![example mouse control](https://github.com/a13x37/simple-calculator/resources/readme_usage.gif)
+![example mouse control](https://github.com/a13x37/simple-calculator/blob/master/resources/readme_usage.gif)
 
 
 Icon by [Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/calculator/)
